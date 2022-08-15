@@ -52,4 +52,5 @@ public class BookController2 {
         }
         return new R(null != page ,page);
     }
+    public T();
 }
